@@ -4,7 +4,8 @@ package stringreverse;
 import java.util.Scanner;
 
 /**
- *
+ * Hello How are you?
+ 
  * @author Megha Patel
  */
 public class StringReverse {
